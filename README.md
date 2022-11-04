@@ -12,7 +12,7 @@
 Synthesizing faces with generative models, including VAE and GAN, with loss functions analysis.  
 
 * <font size=3>**VAE**</font>
-    - A variational autoencoder (VAE) is a type of neural network that learns to reproduce its input, and also map data to latent space. it is worth noting that a VAE model can generate samples by sampling from the latent space.
+    - A variational autoencoder (VAE) is a type of neural network that learns to reproduce its input, and also map data to latent space. It is worth noting that a VAE model can generate samples by sampling from the latent space.
 
 <center>
 <!-- ![] (asset/VAE_arch.png)-->
